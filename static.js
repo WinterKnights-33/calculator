@@ -46,3 +46,47 @@ function calculate() {
             op = "";
             display.innerHTML = res;
 }
+
+
+/*
+
+const display = document.getElementById("display");
+let num1 = "";
+let num2 = "";
+let op = "";
+
+function press(num) {
+    let num = num1;
+    num1 = display.innerHTML;
+}
+
+function setOP(op) {
+    let op = "";
+    let num2 = num1;
+    display.innerHTML = "";
+}
+
+function clr(){
+    display.innerHTML="0"
+}
+
+function calculate() {
+    num2 = a
+    num1 = b
+    result = res
+    switch (
+        case:
+            a + b = res;
+            break;
+        case:
+            a - b = res;
+            break;
+        case:
+            a / b = res;
+            break;
+        case:
+            a * b = res;
+            break;
+        display.innerHTML = res;
+    )
+} */
